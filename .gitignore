@@ -1,0 +1,12 @@
+pamięci podręczne zależności, takie jak zawartość katalogów /node_modules lub /packages;
+
+skompilowany kod, np. pliki .o, .pyc i .class;
+
+katalogi wyjściowe kompilacji, np. /bin, /out lub /target;
+
+pliki generowane w czasie wykonywania, takie jak .log, .lock lub .tmp;
+
+ukryte pliki systemowe, takie jak .DS_Store lub Thumbs.db;
+
+osobiste pliki konfiguracji IDE, takie jak .idea/workspace.xml.
+
